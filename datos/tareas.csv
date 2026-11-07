@@ -1,0 +1,421 @@
+id,titulo,descripcion,materiaId,materiaNombre,tipo,grado,fecha,observaciones,estadoActivo
+1,Investigación: Exposición oral,Investigación de español sobre exposición oral,2,Español,INVESTIGACION,7A,2026-02-02,,True
+2,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,6A,2026-02-02,,True
+3,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,7B,2026-02-05,,True
+4,Taller: Hábitos saludables,Taller de educación física sobre hábitos saludables,8,Educación Física,TAREA,6A,2026-02-05,,True
+5,Investigación: Geometría,Investigación de matemáticas sobre geometría,1,Matemáticas,INVESTIGACION,8A,2026-02-05,,True
+6,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,8A,2026-02-05,,True
+7,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,9A,2026-02-06,,True
+8,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,6A,2026-02-06,,True
+9,Investigación: Regiones naturales,Investigación de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,INVESTIGACION,9A,2026-02-07,,True
+10,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6B,2026-02-08,,True
+11,Investigación: Ensayo argumentativo,Investigación de español sobre ensayo argumentativo,2,Español,INVESTIGACION,6A,2026-02-08,,True
+12,Investigación: Simple past,Investigación de inglés sobre simple past,4,Inglés,INVESTIGACION,9A,2026-02-09,,True
+13,Investigación: Cuento corto,Investigación de español sobre cuento corto,2,Español,INVESTIGACION,6B,2026-02-10,,True
+14,Taller: Resistencia,Taller de educación física sobre resistencia,8,Educación Física,TAREA,6A,2026-02-10,,True
+15,Investigación: Ensayo argumentativo,Investigación de español sobre ensayo argumentativo,2,Español,INVESTIGACION,8A,2026-02-11,,True
+16,Investigación: Resistencia,Investigación de educación física sobre resistencia,8,Educación Física,INVESTIGACION,7B,2026-02-11,,True
+17,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,6A,2026-02-11,,True
+18,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,8A,2026-02-12,,False
+19,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,6B,2026-02-13,,True
+20,Investigación: Fotosíntesis,Investigación de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,INVESTIGACION,7B,2026-02-15,,True
+21,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,8A,2026-02-16,,True
+22,Taller: Reglamento fútbol,Taller de educación física sobre reglamento fútbol,8,Educación Física,TAREA,8A,2026-02-16,,True
+23,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,6B,2026-02-17,,True
+24,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,7B,2026-02-19,,True
+25,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,8A,2026-02-20,,True
+26,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,6B,2026-02-20,,True
+27,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,8A,2026-02-20,,True
+28,Taller: Collage,Taller de artes sobre collage,7,Artes,TAREA,8A,2026-02-23,,True
+29,Investigación: Present perfect,Investigación de inglés sobre present perfect,4,Inglés,INVESTIGACION,9A,2026-02-23,,True
+30,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,6A,2026-02-24,,True
+31,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,6B,2026-02-24,,True
+32,Taller: Independencia,Taller de ciencias sociales sobre independencia,5,Ciencias Sociales,TAREA,6B,2026-02-26,,False
+33,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6B,2026-02-26,,True
+34,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7A,2026-02-26,,True
+35,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,6B,2026-02-27,,True
+36,Taller: Resistencia,Taller de educación física sobre resistencia,8,Educación Física,TAREA,6A,2026-02-28,,True
+37,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,9A,2026-03-01,,True
+38,Investigación: Dibujo a lápiz,Investigación de artes sobre dibujo a lápiz,7,Artes,INVESTIGACION,6A,2026-03-03,,True
+39,Taller: Dibujo a lápiz,Taller de artes sobre dibujo a lápiz,7,Artes,TAREA,9A,2026-03-04,,False
+40,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,6A,2026-03-05,,True
+41,Investigación: Reading,Investigación de inglés sobre reading,4,Inglés,INVESTIGACION,7A,2026-03-05,,True
+42,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,8A,2026-03-05,,True
+43,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,9A,2026-03-05,,False
+44,Investigación: Música andina,Investigación de artes sobre música andina,7,Artes,INVESTIGACION,6B,2026-03-05,,True
+45,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,7B,2026-03-06,,True
+46,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,9A,2026-03-06,,True
+47,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,6B,2026-03-06,,True
+48,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,7B,2026-03-09,,True
+49,Investigación: Cuento corto,Investigación de español sobre cuento corto,2,Español,INVESTIGACION,6A,2026-03-09,,True
+50,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,6B,2026-03-09,,True
+51,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,6A,2026-03-09,,True
+52,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,9A,2026-03-11,,True
+53,Laboratorio: Sistema digestivo,Laboratorio de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,LABORATORIO,8A,2026-03-11,,True
+54,Investigación: Ensayo argumentativo,Investigación de español sobre ensayo argumentativo,2,Español,INVESTIGACION,6A,2026-03-11,,True
+55,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,8A,2026-03-13,,True
+56,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,7A,2026-03-13,,True
+57,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,9A,2026-03-13,,True
+58,Taller: Teatro,Taller de artes sobre teatro,7,Artes,TAREA,8A,2026-03-13,,True
+59,Taller: Teatro,Taller de artes sobre teatro,7,Artes,TAREA,6B,2026-03-13,,True
+60,Investigación: Present perfect,Investigación de inglés sobre present perfect,4,Inglés,INVESTIGACION,7A,2026-03-13,,True
+61,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,8A,2026-03-16,,True
+62,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,7B,2026-03-16,,True
+63,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,7A,2026-03-16,,True
+64,Laboratorio: Sistema digestivo,Laboratorio de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,LABORATORIO,7B,2026-03-16,,True
+65,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,7B,2026-03-16,,True
+66,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,8A,2026-03-16,,True
+67,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,7A,2026-03-18,,True
+68,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,8A,2026-03-18,,True
+69,Taller: Algoritmos,Taller de tecnología sobre algoritmos,6,Tecnología,TAREA,7B,2026-03-19,,True
+70,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,6A,2026-03-19,,True
+71,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,7A,2026-03-19,,True
+72,Investigación: Reading,Investigación de inglés sobre reading,4,Inglés,INVESTIGACION,9A,2026-03-20,,True
+73,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,9A,2026-03-23,,True
+74,Investigación: Ecuaciones lineales,Investigación de matemáticas sobre ecuaciones lineales,1,Matemáticas,INVESTIGACION,6B,2026-03-23,,True
+75,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,7A,2026-03-23,,True
+76,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,9A,2026-03-23,,True
+77,Investigación: Listening,Investigación de inglés sobre listening,4,Inglés,INVESTIGACION,6A,2026-03-24,,True
+78,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,6B,2026-03-24,,True
+79,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,8A,2026-03-24,,True
+80,Investigación: Sistema digestivo,Investigación de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,INVESTIGACION,6A,2026-03-24,,True
+81,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,7A,2026-03-25,,True
+82,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,7B,2026-03-25,,False
+83,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,7A,2026-03-25,,True
+84,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,7A,2026-03-26,,True
+85,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,9A,2026-03-26,,True
+86,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6B,2026-03-27,,True
+87,Taller: Dibujo a lápiz,Taller de artes sobre dibujo a lápiz,7,Artes,TAREA,8A,2026-03-27,,True
+88,Taller: Reglamento fútbol,Taller de educación física sobre reglamento fútbol,8,Educación Física,TAREA,6B,2026-03-27,,True
+89,Investigación: Exposición oral,Investigación de español sobre exposición oral,2,Español,INVESTIGACION,7A,2026-03-28,,True
+90,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,6B,2026-03-30,,True
+91,Laboratorio: Partes del PC,Laboratorio de tecnología sobre partes del pc,6,Tecnología,LABORATORIO,8A,2026-03-30,,False
+92,Investigación: Mapa de Colombia,Investigación de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,INVESTIGACION,6A,2026-03-31,,True
+93,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,8A,2026-03-31,,True
+94,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,7B,2026-03-31,,True
+95,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,9A,2026-03-31,,True
+96,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,8A,2026-04-01,,True
+97,Investigación: Fotosíntesis,Investigación de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,INVESTIGACION,8A,2026-04-01,,True
+98,Investigación: Present perfect,Investigación de inglés sobre present perfect,4,Inglés,INVESTIGACION,6A,2026-04-02,,True
+99,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,7A,2026-04-03,,True
+100,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,7A,2026-04-06,,True
+101,Taller: Seguridad digital,Taller de tecnología sobre seguridad digital,6,Tecnología,TAREA,7B,2026-04-06,,True
+102,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,7A,2026-04-08,,True
+103,Taller: Listening,Taller de inglés sobre listening,4,Inglés,TAREA,6B,2026-04-08,,True
+104,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,7A,2026-04-08,,True
+105,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,7A,2026-04-08,,False
+106,Investigación: Voleibol,Investigación de educación física sobre voleibol,8,Educación Física,INVESTIGACION,9A,2026-04-09,,True
+107,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,6A,2026-04-10,,True
+108,Laboratorio: La célula,Laboratorio de ciencias naturales sobre la célula,3,Ciencias Naturales,LABORATORIO,7A,2026-04-10,,True
+109,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,9A,2026-04-13,,True
+110,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,6A,2026-04-13,,True
+111,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,9A,2026-04-13,,True
+112,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,8A,2026-04-13,,True
+113,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,9A,2026-04-13,,True
+114,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6B,2026-04-13,,True
+115,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,7A,2026-04-13,,True
+116,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,6B,2026-04-14,,True
+117,Investigación: Ortografía,Investigación de español sobre ortografía,2,Español,INVESTIGACION,7A,2026-04-14,,True
+118,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,6A,2026-04-15,,True
+119,Taller: Resistencia,Taller de educación física sobre resistencia,8,Educación Física,TAREA,6A,2026-04-16,,True
+120,Investigación: Estadística,Investigación de matemáticas sobre estadística,1,Matemáticas,INVESTIGACION,7A,2026-04-19,,True
+121,Investigación: Sistema digestivo,Investigación de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,INVESTIGACION,7B,2026-04-20,,True
+122,Investigación: Música andina,Investigación de artes sobre música andina,7,Artes,INVESTIGACION,8A,2026-04-21,,True
+123,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,6B,2026-04-23,,True
+124,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,6A,2026-04-23,,True
+125,Taller: Coordinación,Taller de educación física sobre coordinación,8,Educación Física,TAREA,8A,2026-04-24,,True
+126,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7A,2026-04-24,,True
+127,Investigación: Colores primarios,Investigación de artes sobre colores primarios,7,Artes,INVESTIGACION,7A,2026-04-24,,True
+128,Investigación: Fotosíntesis,Investigación de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,INVESTIGACION,6A,2026-04-26,,True
+129,Investigación: Porcentajes,Investigación de matemáticas sobre porcentajes,1,Matemáticas,INVESTIGACION,8A,2026-04-27,,True
+130,Investigación: Listening,Investigación de inglés sobre listening,4,Inglés,INVESTIGACION,6B,2026-04-27,,False
+131,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7B,2026-04-28,,True
+132,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,7B,2026-04-28,,True
+133,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,9A,2026-04-29,,True
+134,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,6A,2026-04-29,,False
+135,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,6B,2026-04-29,,False
+136,Taller: Hábitos saludables,Taller de educación física sobre hábitos saludables,8,Educación Física,TAREA,8A,2026-04-30,,True
+137,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,6B,2026-04-30,,True
+138,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,9A,2026-05-01,,True
+139,Investigación: Porcentajes,Investigación de matemáticas sobre porcentajes,1,Matemáticas,INVESTIGACION,9A,2026-05-01,,True
+140,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6A,2026-05-01,,True
+141,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,7B,2026-05-01,,True
+142,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,6B,2026-05-01,,False
+143,Investigación: Seguridad digital,Investigación de tecnología sobre seguridad digital,6,Tecnología,INVESTIGACION,6B,2026-05-01,,True
+144,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,9A,2026-05-04,,False
+145,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,7B,2026-05-04,,True
+146,Investigación: Coordinación,Investigación de educación física sobre coordinación,8,Educación Física,INVESTIGACION,7B,2026-05-04,,True
+147,Investigación: Música andina,Investigación de artes sobre música andina,7,Artes,INVESTIGACION,9A,2026-05-04,,True
+148,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,6A,2026-05-05,,True
+149,Investigación: Ensayo argumentativo,Investigación de español sobre ensayo argumentativo,2,Español,INVESTIGACION,6B,2026-05-05,,False
+150,Taller: Teatro,Taller de artes sobre teatro,7,Artes,TAREA,6A,2026-05-05,,True
+151,Investigación: Reading,Investigación de inglés sobre reading,4,Inglés,INVESTIGACION,8A,2026-05-05,,True
+152,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,8A,2026-05-05,,True
+153,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,7A,2026-05-06,,True
+154,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,6B,2026-05-06,,True
+155,Taller: Voleibol,Taller de educación física sobre voleibol,8,Educación Física,TAREA,7B,2026-05-06,,True
+156,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,9A,2026-05-06,,True
+157,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,6B,2026-05-07,,True
+158,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,6A,2026-05-07,,True
+159,Laboratorio: Ecosistemas,Laboratorio de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,LABORATORIO,6A,2026-05-08,,True
+160,Investigación: Mapa de Colombia,Investigación de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,INVESTIGACION,6A,2026-05-14,,True
+161,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,7B,2026-05-15,,True
+162,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,6B,2026-05-15,,True
+163,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,7A,2026-05-15,,True
+164,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,7B,2026-05-15,,True
+165,Investigación: Present perfect,Investigación de inglés sobre present perfect,4,Inglés,INVESTIGACION,6B,2026-05-18,,True
+166,Taller: Algoritmos,Taller de tecnología sobre algoritmos,6,Tecnología,TAREA,8A,2026-05-19,,True
+167,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,7A,2026-05-19,,True
+168,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,8A,2026-05-19,,True
+169,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,8A,2026-05-22,,True
+170,Taller: Independencia,Taller de ciencias sociales sobre independencia,5,Ciencias Sociales,TAREA,7A,2026-05-22,,True
+171,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,7A,2026-05-22,,True
+172,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,9A,2026-05-25,,True
+173,Investigación: Estadística,Investigación de matemáticas sobre estadística,1,Matemáticas,INVESTIGACION,8A,2026-05-25,,True
+174,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,9A,2026-05-26,,True
+175,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,8A,2026-05-26,,True
+176,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,6B,2026-05-27,,True
+177,Laboratorio: Hoja de cálculo,Laboratorio de tecnología sobre hoja de cálculo,6,Tecnología,LABORATORIO,8A,2026-05-28,,True
+178,Investigación: Ecuaciones lineales,Investigación de matemáticas sobre ecuaciones lineales,1,Matemáticas,INVESTIGACION,7A,2026-05-28,,True
+179,Taller: Voleibol,Taller de educación física sobre voleibol,8,Educación Física,TAREA,7A,2026-05-28,,True
+180,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,8A,2026-05-29,,True
+181,Investigación: Porcentajes,Investigación de matemáticas sobre porcentajes,1,Matemáticas,INVESTIGACION,8A,2026-06-01,,False
+182,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,9A,2026-06-02,,True
+183,Investigación: Mapa de Colombia,Investigación de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,INVESTIGACION,8A,2026-06-04,,True
+184,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,9A,2026-06-04,,True
+185,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,9A,2026-06-05,,True
+186,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,7B,2026-06-06,,False
+187,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,6A,2026-06-11,,True
+188,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,6A,2026-06-11,,True
+189,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,6B,2026-06-11,,True
+190,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,7B,2026-06-16,,True
+191,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,6B,2026-06-16,,True
+192,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,9A,2026-06-16,,True
+193,Investigación: Listening,Investigación de inglés sobre listening,4,Inglés,INVESTIGACION,6A,2026-06-19,,True
+194,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,7B,2026-06-23,,True
+195,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,9A,2026-06-23,,True
+196,Taller: Dibujo a lápiz,Taller de artes sobre dibujo a lápiz,7,Artes,TAREA,7B,2026-06-24,,True
+197,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,7A,2026-06-24,,True
+198,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,9A,2026-06-24,,True
+199,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,8A,2026-06-25,,True
+200,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,8A,2026-06-25,,True
+201,Investigación: Cuento corto,Investigación de español sobre cuento corto,2,Español,INVESTIGACION,8A,2026-06-26,,True
+202,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,9A,2026-06-29,,True
+203,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,8A,2026-07-01,,True
+204,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,8A,2026-07-03,,True
+205,Investigación: Ecuaciones lineales,Investigación de matemáticas sobre ecuaciones lineales,1,Matemáticas,INVESTIGACION,7B,2026-07-03,,True
+206,Investigación: Regiones naturales,Investigación de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,INVESTIGACION,9A,2026-07-06,,True
+207,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,7A,2026-07-07,,True
+208,Taller: Present perfect,Taller de inglés sobre present perfect,4,Inglés,TAREA,6B,2026-07-07,,True
+209,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,6B,2026-07-07,,True
+210,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,7A,2026-07-08,,True
+211,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,6A,2026-07-08,,True
+212,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,7B,2026-07-09,,True
+213,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,8A,2026-07-09,,True
+214,Investigación: Fotosíntesis,Investigación de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,INVESTIGACION,6B,2026-07-09,,True
+215,Investigación: Seguridad digital,Investigación de tecnología sobre seguridad digital,6,Tecnología,INVESTIGACION,6A,2026-07-09,,True
+216,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,9A,2026-07-10,,True
+217,Taller: Seguridad digital,Taller de tecnología sobre seguridad digital,6,Tecnología,TAREA,6A,2026-07-13,,True
+218,Investigación: Reading,Investigación de inglés sobre reading,4,Inglés,INVESTIGACION,9A,2026-07-13,,True
+219,Investigación: Estadística,Investigación de matemáticas sobre estadística,1,Matemáticas,INVESTIGACION,7B,2026-07-15,,True
+220,Investigación: Voleibol,Investigación de educación física sobre voleibol,8,Educación Física,INVESTIGACION,6B,2026-07-15,,True
+221,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,6B,2026-07-16,,True
+222,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,9A,2026-07-21,,True
+223,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,7A,2026-07-22,,True
+224,Taller: Colores primarios,Taller de artes sobre colores primarios,7,Artes,TAREA,9A,2026-07-22,,True
+225,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,7A,2026-07-22,,True
+226,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,6A,2026-07-22,,True
+227,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,7B,2026-07-22,,True
+228,Laboratorio: Mezclas,Laboratorio de ciencias naturales sobre mezclas,3,Ciencias Naturales,LABORATORIO,9A,2026-07-22,,True
+229,Taller: Listening,Taller de inglés sobre listening,4,Inglés,TAREA,7A,2026-07-22,,True
+230,Investigación: Exposición oral,Investigación de español sobre exposición oral,2,Español,INVESTIGACION,6A,2026-07-24,,True
+231,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,6B,2026-07-24,,True
+232,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,8A,2026-07-26,,False
+233,Taller: Colores primarios,Taller de artes sobre colores primarios,7,Artes,TAREA,7B,2026-07-27,,True
+234,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,7B,2026-07-28,,True
+235,Taller: Vocabulary unit,Taller de inglés sobre vocabulary unit,4,Inglés,TAREA,9A,2026-07-30,,True
+236,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,7B,2026-07-31,,True
+237,Taller: Coordinación,Taller de educación física sobre coordinación,8,Educación Física,TAREA,7B,2026-08-03,,True
+238,Taller: Collage,Taller de artes sobre collage,7,Artes,TAREA,7A,2026-08-03,,True
+239,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,6A,2026-08-03,,True
+240,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,6A,2026-08-04,,True
+241,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,7A,2026-08-04,,True
+242,Investigación: Collage,Investigación de artes sobre collage,7,Artes,INVESTIGACION,9A,2026-08-05,,True
+243,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,6A,2026-08-06,,True
+244,Investigación: Listening,Investigación de inglés sobre listening,4,Inglés,INVESTIGACION,8A,2026-08-07,,True
+245,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,8A,2026-08-10,,True
+246,Investigación: Economía,Investigación de ciencias sociales sobre economía,5,Ciencias Sociales,INVESTIGACION,7A,2026-08-10,,True
+247,Investigación: Partes del PC,Investigación de tecnología sobre partes del pc,6,Tecnología,INVESTIGACION,6A,2026-08-11,,True
+248,Investigación: Lectura crítica,Investigación de español sobre lectura crítica,2,Español,INVESTIGACION,6A,2026-08-11,,True
+249,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,7B,2026-08-12,,True
+250,Investigación: Constitución,Investigación de ciencias sociales sobre constitución,5,Ciencias Sociales,INVESTIGACION,9A,2026-08-13,,True
+251,Investigación: Exposición oral,Investigación de español sobre exposición oral,2,Español,INVESTIGACION,6B,2026-08-14,,True
+252,Taller: Present perfect,Taller de inglés sobre present perfect,4,Inglés,TAREA,8A,2026-08-14,,True
+253,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,6A,2026-08-17,,True
+254,Laboratorio: Fotosíntesis,Laboratorio de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,LABORATORIO,8A,2026-08-18,,True
+255,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,9A,2026-08-18,,True
+256,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,7A,2026-08-18,,True
+257,Taller: Cuento corto,Taller de español sobre cuento corto,2,Español,TAREA,6B,2026-08-18,,True
+258,Taller: Collage,Taller de artes sobre collage,7,Artes,TAREA,7B,2026-08-19,,True
+259,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,7B,2026-08-19,,True
+260,Investigación: Ensayo argumentativo,Investigación de español sobre ensayo argumentativo,2,Español,INVESTIGACION,9A,2026-08-20,,True
+261,Taller: Voleibol,Taller de educación física sobre voleibol,8,Educación Física,TAREA,7B,2026-08-20,,True
+262,Investigación: Colores primarios,Investigación de artes sobre colores primarios,7,Artes,INVESTIGACION,8A,2026-08-20,,True
+263,Taller: Dibujo a lápiz,Taller de artes sobre dibujo a lápiz,7,Artes,TAREA,6A,2026-08-21,,True
+264,Investigación: Independencia,Investigación de ciencias sociales sobre independencia,5,Ciencias Sociales,INVESTIGACION,6B,2026-08-21,,True
+265,Taller: Vocabulary unit,Taller de inglés sobre vocabulary unit,4,Inglés,TAREA,7A,2026-08-21,,True
+266,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,7A,2026-08-21,,True
+267,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,6B,2026-08-21,,True
+268,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,7A,2026-08-21,,True
+269,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,9A,2026-08-21,,True
+270,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,6A,2026-08-24,,True
+271,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,9A,2026-08-25,,True
+272,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,8A,2026-08-25,,True
+273,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,7A,2026-08-26,,True
+274,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7B,2026-08-26,,True
+275,Investigación: Seguridad digital,Investigación de tecnología sobre seguridad digital,6,Tecnología,INVESTIGACION,9A,2026-08-26,,True
+276,Investigación: Sistema digestivo,Investigación de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,INVESTIGACION,7B,2026-08-26,,True
+277,Investigación: Dibujo a lápiz,Investigación de artes sobre dibujo a lápiz,7,Artes,INVESTIGACION,9A,2026-08-27,,True
+278,Taller: Colores primarios,Taller de artes sobre colores primarios,7,Artes,TAREA,7B,2026-08-28,,True
+279,Taller: Present perfect,Taller de inglés sobre present perfect,4,Inglés,TAREA,7A,2026-08-28,,True
+280,Taller: Seguridad digital,Taller de tecnología sobre seguridad digital,6,Tecnología,TAREA,7B,2026-08-28,,True
+281,Investigación: Ecosistemas,Investigación de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,INVESTIGACION,6A,2026-08-28,,True
+282,Laboratorio: Fotosíntesis,Laboratorio de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,LABORATORIO,7A,2026-08-29,,True
+283,Investigación: Exposición oral,Investigación de español sobre exposición oral,2,Español,INVESTIGACION,7B,2026-08-30,,True
+284,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,8A,2026-08-31,,True
+285,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,9A,2026-09-01,,True
+286,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,9A,2026-09-01,,True
+287,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,7A,2026-09-02,,True
+288,Taller: Listening,Taller de inglés sobre listening,4,Inglés,TAREA,6A,2026-09-02,,True
+289,Investigación: Regiones naturales,Investigación de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,INVESTIGACION,7B,2026-09-02,,True
+290,Investigación: Porcentajes,Investigación de matemáticas sobre porcentajes,1,Matemáticas,INVESTIGACION,9A,2026-09-02,,True
+291,Taller: Independencia,Taller de ciencias sociales sobre independencia,5,Ciencias Sociales,TAREA,8A,2026-09-02,,True
+292,Taller: Independencia,Taller de ciencias sociales sobre independencia,5,Ciencias Sociales,TAREA,8A,2026-09-02,,True
+293,Investigación: Scratch,Investigación de tecnología sobre scratch,6,Tecnología,INVESTIGACION,9A,2026-09-03,,True
+294,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,8A,2026-09-03,,True
+295,Taller: Vocabulary unit,Taller de inglés sobre vocabulary unit,4,Inglés,TAREA,6B,2026-09-03,,True
+296,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,7A,2026-09-04,,True
+297,Taller: Hábitos saludables,Taller de educación física sobre hábitos saludables,8,Educación Física,TAREA,6A,2026-09-04,,False
+298,Taller: Fracciones,Taller de matemáticas sobre fracciones,1,Matemáticas,TAREA,7B,2026-09-05,,True
+299,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,7A,2026-09-06,,True
+300,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,9A,2026-09-07,,True
+301,Investigación: Porcentajes,Investigación de matemáticas sobre porcentajes,1,Matemáticas,INVESTIGACION,7A,2026-09-08,,True
+302,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,7A,2026-09-08,,True
+303,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,8A,2026-09-09,,False
+304,Investigación: Geometría,Investigación de matemáticas sobre geometría,1,Matemáticas,INVESTIGACION,9A,2026-09-09,,True
+305,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,7A,2026-09-10,,True
+306,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,6A,2026-09-10,,True
+307,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,9A,2026-09-10,,True
+308,Investigación: La célula,Investigación de ciencias naturales sobre la célula,3,Ciencias Naturales,INVESTIGACION,7A,2026-09-10,,True
+309,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,6B,2026-09-11,,True
+310,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,8A,2026-09-11,,True
+311,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,9A,2026-09-11,,True
+312,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,6B,2026-09-11,,True
+313,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7A,2026-09-14,,True
+314,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,7B,2026-09-14,,True
+315,Taller: Hábitos saludables,Taller de educación física sobre hábitos saludables,8,Educación Física,TAREA,8A,2026-09-14,,True
+316,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,7A,2026-09-15,,True
+317,Investigación: Listening,Investigación de inglés sobre listening,4,Inglés,INVESTIGACION,7A,2026-09-16,,True
+318,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,6B,2026-09-16,,True
+319,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,8A,2026-09-17,,False
+320,Investigación: Ortografía,Investigación de español sobre ortografía,2,Español,INVESTIGACION,6A,2026-09-19,,True
+321,Investigación: Regiones naturales,Investigación de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,INVESTIGACION,6B,2026-09-19,,True
+322,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,6A,2026-09-21,,True
+323,Laboratorio: Ecosistemas,Laboratorio de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,LABORATORIO,9A,2026-09-21,,True
+324,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,7B,2026-09-21,,True
+325,Laboratorio: Hoja de cálculo,Laboratorio de tecnología sobre hoja de cálculo,6,Tecnología,LABORATORIO,6B,2026-09-21,,True
+326,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,6B,2026-09-21,,True
+327,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,7A,2026-09-24,,True
+328,Investigación: Estadística,Investigación de matemáticas sobre estadística,1,Matemáticas,INVESTIGACION,8A,2026-09-24,,True
+329,Taller: Vocabulary unit,Taller de inglés sobre vocabulary unit,4,Inglés,TAREA,6B,2026-09-24,,True
+330,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,7B,2026-09-24,,True
+331,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,6A,2026-09-25,,True
+332,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,8A,2026-09-25,,True
+333,Taller: Dibujo a lápiz,Taller de artes sobre dibujo a lápiz,7,Artes,TAREA,6B,2026-09-25,,True
+334,Taller: Mezclas,Taller de ciencias naturales sobre mezclas,3,Ciencias Naturales,TAREA,8A,2026-09-25,,True
+335,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,7B,2026-09-25,,True
+336,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,6A,2026-09-25,,True
+337,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,6A,2026-09-28,,True
+338,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,6A,2026-09-30,,True
+339,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,8A,2026-09-30,,True
+340,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,8A,2026-09-30,,True
+341,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,7B,2026-09-30,,True
+342,Investigación: Vocabulary unit,Investigación de inglés sobre vocabulary unit,4,Inglés,INVESTIGACION,9A,2026-10-01,,True
+343,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,7A,2026-10-01,,True
+344,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,7B,2026-10-01,,True
+345,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,8A,2026-10-02,,True
+346,Taller: Scratch,Taller de tecnología sobre scratch,6,Tecnología,TAREA,6B,2026-10-02,,True
+347,Taller: Listening,Taller de inglés sobre listening,4,Inglés,TAREA,8A,2026-10-02,,True
+348,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,8A,2026-10-02,,True
+349,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,7B,2026-10-02,,True
+350,Investigación: Lectura crítica,Investigación de español sobre lectura crítica,2,Español,INVESTIGACION,9A,2026-10-04,,True
+351,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,8A,2026-10-05,,True
+352,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,9A,2026-10-05,,True
+353,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,7A,2026-10-06,,True
+354,Investigación: Algoritmos,Investigación de tecnología sobre algoritmos,6,Tecnología,INVESTIGACION,7B,2026-10-07,,True
+355,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6A,2026-10-07,,True
+356,Taller: Teatro,Taller de artes sobre teatro,7,Artes,TAREA,7A,2026-10-08,,True
+357,Investigación: Fracciones,Investigación de matemáticas sobre fracciones,1,Matemáticas,INVESTIGACION,7B,2026-10-09,,True
+358,Taller: Independencia,Taller de ciencias sociales sobre independencia,5,Ciencias Sociales,TAREA,7B,2026-10-09,,True
+359,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,7A,2026-10-10,,True
+360,Investigación: Algoritmos,Investigación de tecnología sobre algoritmos,6,Tecnología,INVESTIGACION,9A,2026-10-12,,True
+361,Laboratorio: Seguridad digital,Laboratorio de tecnología sobre seguridad digital,6,Tecnología,LABORATORIO,6B,2026-10-12,,True
+362,Investigación: Hoja de cálculo,Investigación de tecnología sobre hoja de cálculo,6,Tecnología,INVESTIGACION,9A,2026-10-12,,True
+363,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,6A,2026-10-12,,True
+364,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,6A,2026-10-12,,True
+365,Investigación: Colores primarios,Investigación de artes sobre colores primarios,7,Artes,INVESTIGACION,7A,2026-10-12,,True
+366,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,7B,2026-10-13,,False
+367,Investigación: Sistema digestivo,Investigación de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,INVESTIGACION,7B,2026-10-13,,True
+368,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,6B,2026-10-14,,True
+369,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,6B,2026-10-15,,True
+370,Taller: Sistema digestivo,Taller de ciencias naturales sobre sistema digestivo,3,Ciencias Naturales,TAREA,7A,2026-10-15,,True
+371,Investigación: Ecuaciones lineales,Investigación de matemáticas sobre ecuaciones lineales,1,Matemáticas,INVESTIGACION,6A,2026-10-15,,True
+372,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,7A,2026-10-15,,True
+373,Taller: Economía,Taller de ciencias sociales sobre economía,5,Ciencias Sociales,TAREA,8A,2026-10-16,,True
+374,Taller: Reading,Taller de inglés sobre reading,4,Inglés,TAREA,7B,2026-10-18,,True
+375,Taller: La célula,Taller de ciencias naturales sobre la célula,3,Ciencias Naturales,TAREA,8A,2026-10-20,,True
+376,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,7B,2026-10-21,,True
+377,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,7B,2026-10-21,,True
+378,Taller: Hábitos saludables,Taller de educación física sobre hábitos saludables,8,Educación Física,TAREA,8A,2026-10-21,,True
+379,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,6A,2026-10-21,,True
+380,Investigación: Ecosistemas,Investigación de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,INVESTIGACION,7A,2026-10-22,,True
+381,Taller: Constitución,Taller de ciencias sociales sobre constitución,5,Ciencias Sociales,TAREA,6B,2026-10-22,,True
+382,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,9A,2026-10-22,,True
+383,Taller: Exposición oral,Taller de español sobre exposición oral,2,Español,TAREA,9A,2026-10-22,,True
+384,Investigación: Música andina,Investigación de artes sobre música andina,7,Artes,INVESTIGACION,6A,2026-10-23,,True
+385,Taller: Present perfect,Taller de inglés sobre present perfect,4,Inglés,TAREA,7A,2026-10-23,,True
+386,Taller: Simple past,Taller de inglés sobre simple past,4,Inglés,TAREA,6B,2026-10-25,,True
+387,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6B,2026-10-26,,True
+388,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,8A,2026-10-26,,True
+389,Taller: Música andina,Taller de artes sobre música andina,7,Artes,TAREA,9A,2026-10-28,,False
+390,Taller: Partes del PC,Taller de tecnología sobre partes del pc,6,Tecnología,TAREA,7A,2026-10-28,,True
+391,Taller: Ecuaciones lineales,Taller de matemáticas sobre ecuaciones lineales,1,Matemáticas,TAREA,6B,2026-10-29,,True
+392,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,6A,2026-10-29,,True
+393,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,7A,2026-10-29,,True
+394,Taller: Geometría,Taller de matemáticas sobre geometría,1,Matemáticas,TAREA,7A,2026-10-30,,True
+395,Taller: Regiones naturales,Taller de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,TAREA,9A,2026-10-30,,True
+396,Taller: Hoja de cálculo,Taller de tecnología sobre hoja de cálculo,6,Tecnología,TAREA,7A,2026-10-30,,True
+397,Taller: Ecosistemas,Taller de ciencias naturales sobre ecosistemas,3,Ciencias Naturales,TAREA,9A,2026-11-03,,True
+398,Taller: Reglamento fútbol,Taller de educación física sobre reglamento fútbol,8,Educación Física,TAREA,7A,2026-11-04,,True
+399,Investigación: Hábitos saludables,Investigación de educación física sobre hábitos saludables,8,Educación Física,INVESTIGACION,6B,2026-11-06,,True
+400,Taller: Ensayo argumentativo,Taller de español sobre ensayo argumentativo,2,Español,TAREA,7A,2026-11-06,,True
+401,Taller: Present perfect,Taller de inglés sobre present perfect,4,Inglés,TAREA,7B,2026-11-06,,False
+402,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,9A,2026-11-06,,False
+403,Taller: Collage,Taller de artes sobre collage,7,Artes,TAREA,7A,2026-11-10,,True
+404,Investigación: Regiones naturales,Investigación de ciencias sociales sobre regiones naturales,5,Ciencias Sociales,INVESTIGACION,6A,2026-11-11,,True
+405,Taller: Vocabulary unit,Taller de inglés sobre vocabulary unit,4,Inglés,TAREA,7B,2026-11-11,,True
+406,Taller: Ortografía,Taller de español sobre ortografía,2,Español,TAREA,7B,2026-11-13,,True
+407,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,8A,2026-11-17,,True
+408,Laboratorio: Scratch,Laboratorio de tecnología sobre scratch,6,Tecnología,LABORATORIO,9A,2026-11-18,,True
+409,Taller: Fotosíntesis,Taller de ciencias naturales sobre fotosíntesis,3,Ciencias Naturales,TAREA,6A,2026-11-19,,True
+410,Investigación: Ortografía,Investigación de español sobre ortografía,2,Español,INVESTIGACION,6B,2026-11-19,,True
+411,Taller: Lectura crítica,Taller de español sobre lectura crítica,2,Español,TAREA,9A,2026-11-20,,True
+412,Taller: Mapa de Colombia,Taller de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,TAREA,6B,2026-11-20,,True
+413,Laboratorio: Hoja de cálculo,Laboratorio de tecnología sobre hoja de cálculo,6,Tecnología,LABORATORIO,6B,2026-11-21,,True
+414,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,8A,2026-11-22,,True
+415,Taller: Porcentajes,Taller de matemáticas sobre porcentajes,1,Matemáticas,TAREA,7A,2026-11-26,,True
+416,Investigación: Simple past,Investigación de inglés sobre simple past,4,Inglés,INVESTIGACION,7A,2026-11-26,,True
+417,Taller: Estadística,Taller de matemáticas sobre estadística,1,Matemáticas,TAREA,8A,2026-11-26,,True
+418,Investigación: Mezclas,Investigación de ciencias naturales sobre mezclas,3,Ciencias Naturales,INVESTIGACION,8A,2026-11-26,,True
+419,Investigación: Mapa de Colombia,Investigación de ciencias sociales sobre mapa de colombia,5,Ciencias Sociales,INVESTIGACION,8A,2026-11-27,,True
+420,Taller: Coordinación,Taller de educación física sobre coordinación,8,Educación Física,TAREA,8A,2026-11-30,,True
